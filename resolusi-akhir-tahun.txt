@@ -1,0 +1,91 @@
+Roadmap Jadi AI Engineer (Versi Mahasiswa Informatika)
+📌 Tahun 1 (Semester 2–3): Fondasi Kuat
+🎯 Tujuan: Kuasai dasar pemrograman & logika
+✅ Belajar Python secara mendalam (fungsi, struktur data, OOP)
+
+✅ Latihan di HackerRank atau LeetCode
+
+✅ Belajar logika & algoritma
+
+✅ Pelajari dasar matematika AI: Aljabar Linear, Statistik, Probabilitas
+
+✅ Buat akun GitHub dan upload project Python pertama
+
+📚 Rekomendasi:
+
+YouTube: Kelas Terbuka (Python)
+
+Buku: Think Python
+
+Platform: W3Schools, Programiz
+
+📌 Tahun 2 (Semester 4–5): Masuk Dunia AI Sungguhan
+🎯 Tujuan: Kuasai Machine Learning & mulai buat portofolio
+✅ Belajar Machine Learning Dasar (scikit-learn)
+
+Linear Regression, KNN, Decision Tree, dll
+
+✅ Pelajari Data Science Tools: Numpy, Pandas, Matplotlib
+
+✅ Ikut kursus AI (Dicoding, Coursera – Andrew Ng)
+
+✅ Buat 3–5 proyek AI sederhana dan upload ke GitHub
+
+💡 Proyek Contoh:
+
+Prediksi nilai ujian siswa
+
+Deteksi spam email
+
+Klasifikasi gambar bunga Iris
+
+📚 Sumber:
+
+Coursera – Andrew Ng (Machine Learning)
+
+Dicoding: Belajar Machine Learning untuk Pemula
+
+📌 Tahun 3 (Semester 6–7): Deep Learning & Dunia Nyata
+🎯 Tujuan: Siap magang atau kerja entry-level
+✅ Belajar Deep Learning: Neural Network, CNN, RNN
+
+Tools: TensorFlow / PyTorch
+
+✅ Latihan proyek nyata:
+
+Deteksi wajah
+
+Chatbot
+
+Sistem rekomendasi film
+
+✅ Belajar deployment AI (Flask, Streamlit, API, Docker)
+
+✅ Ikut lomba atau kompetisi AI (Kaggle, hackathon)
+
+✅ Aktif di komunitas & cari magang
+
+📚 Sumber:
+
+YouTube: FreeCodeCamp
+
+Buku: Deep Learning with Python (François Chollet)
+
+📌 Tahun 4 (Semester 8): Siap Terjun ke Industri!
+🎯 Tujuan: Punya portofolio kuat + pengalaman
+✅ Buat portofolio pribadi / website (bisa pakai GitHub Pages)
+
+✅ Apply kerja/magang sebagai AI Engineer / ML Engineer
+
+✅ Persiapkan interview teknikal (coding + logika ML)
+
+✅ (Opsional) Persiapkan lanjut studi S2 / Jepang 🇯🇵
+
+🚀 BONUS: Tips Tambahan
+Gabung komunitas: Dicoding, AI Indonesia, Kaggle Discord
+
+Buat konten belajar AI di TikTok, YouTube, atau Instagram
+
+Konsisten bikin project minimal 1–2 per semester
+
+Simpan semua catatan belajar di Notion atau GitHub
