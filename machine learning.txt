@@ -1,0 +1,51 @@
+Tugas Sehari-hari Machine Learning Engineer:
+Tahapan	Penjelasan
+📊 Mengumpulkan dan membersihkan data	Nyari data dari berbagai sumber (database, API, file CSV, dll), lalu bersihin datanya supaya siap dilatih.
+🧠 Melatih model machine learning	Pakai algoritma seperti Decision Tree, Random Forest, atau Neural Network untuk membuat sistem yang bisa mengenali pola.
+📈 Evaluasi model	Ngecek performa model dengan metrik seperti akurasi, precision, recall, dll.
+🔧 Optimasi model	Tuning hyperparameter biar model makin akurat dan efisien.
+🚀 Deploy model ke aplikasi/web	Bikin sistem AI bisa dipakai di dunia nyata lewat API, backend, atau web service.
+📚 Dokumentasi dan Kolaborasi	Nulis catatan kerja, komunikasi dengan tim software engineer, data scientist, dan produk.
+🧠 Skill Wajib Seorang ML Engineer
+Kategori	Skill
+🔣 Programming	Python (utama), Java, C++ (kadang)
+📊 Data Handling	Numpy, Pandas, SQL
+🧮 Machine Learning Framework	Scikit-learn, XGBoost, LightGBM
+🧠 Deep Learning	TensorFlow, PyTorch (opsional tapi penting)
+🌐 Deployment	Flask, FastAPI, Docker, Cloud (AWS, GCP)
+🔍 Math/Statistik	Aljabar Linear, Probabilitas, Statistik
+🧪 Metrik Evaluasi	Confusion matrix, F1 Score, ROC-AUC
+💼 Di Mana ML Engineer Bekerja?
+Perusahaan teknologi: Google, Shopee, Gojek, Tokopedia, Bukalapak
+
+Perusahaan keuangan: BCA, BRI, OJK (untuk prediksi kredit/fraud detection)
+
+Industri e-commerce, kesehatan, transportasi, manufaktur
+
+Startup yang berbasis data dan teknologi
+
+💰 Gaji Seorang ML Engineer
+Lokasi	Gaji Rata-rata
+🇮🇩 Indonesia (Junior)	Rp 8–15 juta/bulan
+🇮🇩 Indonesia (Senior)	Rp 20–40 juta/bulan
+🌍 Luar negeri	$60,000 – $150,000/tahun (setara Rp 900 juta – Rp 2 M!)
+🎓 Jalur Belajar ML Engineer
+Belajar Python & matematika dasar
+
+Pelajari Machine Learning dari nol (algoritma dasar)
+
+Bikin proyek nyata dan upload ke GitHub
+
+Pelajari cara deploy model ke web (bukan cuma bikin model doang)
+
+Ikut kompetisi AI (contoh: Kaggle)
+
+Apply magang atau kerja entry-level
+
+Kalau kamu udah tau Python dan mau mulai belajar Machine Learning, aku bisa bantu buatinkan:
+
+Rencana belajar step-by-step
+
+Daftar proyek yang cocok buat portofolio
+
+Template GitHub + README untuk project-mu
